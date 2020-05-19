@@ -45,7 +45,7 @@ __A user can see the structure of my index page and the links with the styles wo
 
 ## 2. User Story: Main content of index file
 
-__A user can see the main content of my index page.
+__A user can see the main content of my index page.__
 
 ### Branch
 
@@ -65,7 +65,7 @@ __A user can see the main content of my index page.
 
 ## 3. User Story: Fine tuning style of index file
 
-__A user can see the complete index page (not responsive).
+__A user can see the complete index page (not responsive).__
 
 ### Branch
 
@@ -85,7 +85,7 @@ __A user can see the complete index page (not responsive).
 
 ## 4. User Story: Creating About Page
 
-__A user can navigate to the about page (not responsive).
+__A user can navigate to the about page (not responsive).__
 
 ### Branch
 
@@ -106,7 +106,7 @@ __A user can navigate to the about page (not responsive).
 
 ## 5. User Story: Creating Services Page
 
-__A user can navigate to the services page (not responsive).
+__A user can navigate to the services page (not responsive).__
 
 ### Branch
 
@@ -127,7 +127,7 @@ __A user can navigate to the services page (not responsive).
 
 ## 6. User Story: Responsive
 
-__A user can navigate in any device (responsive).
+__A user can navigate in any device (responsive).__
 
 ### Branch
 
