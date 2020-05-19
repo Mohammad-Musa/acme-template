@@ -20,29 +20,136 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. User Story: __
+## 1. User Story: Basic Structure
 
-__full user story description__
+__A user can see the structure of my index page and the links with the styles would be working__
 
-### Repo
+### Branch
 
-what branch(es) did you work on?
+1-basic structure of index file
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create index file;
+- Create the structure of the documents (main tags);
 
 ### CSS
 
-what did you change in the CSS and why?
+- Create styles.css;
+- Creating the basic styling;
 
-## 2. ...
+### Extras
 
-...
+- Updating development strategy.
+- creating folders for css and images.
 
-...
+## 2. User Story: Main content of index file
+
+__A user can see the main content of my index page.
+
+### Branch
+
+2-content
+
+### HTML
+
+- Adding content to index file;
+
+### CSS
+
+- Adding style for content;
+
+### Extras
+
+- Updating development strategy.
+
+## 3. User Story: Fine tuning style of index file
+
+__A user can see the complete index page (not responsive).
+
+### Branch
+
+3-styling
+
+### HTML
+
+- Adding needed tags to index file;
+
+### CSS
+
+- Adding needed style for added tags ;
+
+### Extras
+
+- Updating development strategy.
+
+## 4. User Story: Creating About Page
+
+__A user can navigate to the about page (not responsive).
+
+### Branch
+
+4-about
+
+### HTML
+
+- Creating new file;
+- Adding content.
+
+### CSS
+
+- Adding needed style for about page;
+
+### Extras
+
+- Updating development strategy.
+
+## 5. User Story: Creating Services Page
+
+__A user can navigate to the services page (not responsive).
+
+### Branch
+
+5-services
+
+### HTML
+
+- Creating new file;
+- Adding content.
+
+### CSS
+
+- Adding needed style for about page;
+
+### Extras
+
+- Updating development strategy.
+
+## 6. User Story: Responsive
+
+__A user can navigate in any device (responsive).
+
+### Branch
+
+6-responsive
+
+### HTML
+
+- Just some touches, if needed;
+
+### CSS
+
+- Adding media queries;
+
+### Extras
+
+- Updating development strategy.
 
 ## Finishing Touches
+
+### Branch
+
+7-Finishing
 
 - Write final, complete README:
  - [makeareadme.com](https://www.makeareadme.com/)
