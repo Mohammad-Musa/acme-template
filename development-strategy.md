@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `Acme-template`
 
 write a short description of your project:
 - who would want to use it?
@@ -8,9 +8,7 @@ write a short description of your project:
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./ACME_WIREFRAME.JPG)
 
 ## 0. Set-Up
 
