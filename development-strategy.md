@@ -149,7 +149,7 @@ __A user can navigate in any device (responsive).__
 
 ### Branch
 
-7-Finishing
+7-Validating
 
 - Write final, complete README:
  - [makeareadme.com](https://www.makeareadme.com/)
