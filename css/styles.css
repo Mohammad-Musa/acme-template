@@ -157,3 +157,18 @@ aside#sidebar {
 	width: 30%;
 	margin-top: 10px;
 }
+
+/* Services page */
+
+ul#services li {
+	list-style: none;
+	padding: 20px;
+	border: #ccc solid 1px;
+	margin-bottom: 5px;
+	background: #e6e6e6;
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+	width: 90%;
+	padding: 5px;
+} 
