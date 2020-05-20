@@ -120,6 +120,9 @@ header a:hover {
 	text-align: center;
 }
 
+#boxes .box img {
+	width: 90px;
+}
 footer {
 	padding: 20px;
 	margin-top: 20px;
