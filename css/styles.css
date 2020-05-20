@@ -179,7 +179,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
 	header #branding, 
 	header nav, 
 	header nav li,
-	#newsletter h1,
+	#newsletter h2,
 	#newsletter form,
 	#boxes .box,
 	article#main-col,
@@ -192,7 +192,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
 		padding-bottom: 20px;
 	}
 	
-	#showcase h1 {
+	#showcase h2 {
 		margin-top: 40px;
 	}
 	
