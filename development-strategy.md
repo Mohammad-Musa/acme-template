@@ -8,7 +8,7 @@ write a short description of your project:
 
 ## Wireframe
 
-![wireframe](./ACME_WIREFRAME.JPG)
+![wireframe](https://github.com/abelRoland/acme-template/blob/master/ACME_WIREFRAME.jpg?raw=true)
 
 ## 0. Set-Up
 
