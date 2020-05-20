@@ -135,3 +135,25 @@ footer {
 	background: #e8491d;
 	text-align: center;
 }
+
+/* About page */
+
+/*Global */
+
+.dark {
+	padding: 15px;
+	background: #35424a;
+	color: #fff;
+	margin: 10px 0;
+}
+
+article#main-col {
+	float: left;
+	width: 65%;
+}
+
+aside#sidebar {
+	float: right;
+	width: 30%;
+	margin-top: 10px;
+}
